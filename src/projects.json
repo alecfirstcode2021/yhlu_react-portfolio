@@ -1,0 +1,29 @@
+[
+    {
+        "title": "filmbank",
+        "image": "https://i.imgur.com/gREy3AX.png",
+        "about": 
+            "FilmBank is an application that gives a user the ability to search for movies, get a description, including plot, cast, release date, where it's streaming, and a New York Times moview review.",
+        "technologies": ["HTML", "BULMA", "Javascript"],
+        "repo": "https://github.com/swillrich5/filmbank",
+        "site": "https://github.com/swillrich5/filmbank"
+    },
+    {
+        "title": "PokeFyte",
+        "image": "https://i.imgur.com/OVGBrfW.png",
+        "about": 
+            "Hello! This is PokeFyte - an application that allows users to engage in battle with Pokémon. Using the base code from Holly Springsteen's open source game, we've also added a few improvements of our own! Users are able to sign up and login, as well as view the Pokedex!The Pokédex will provide information such as Pokémon names, HP, Attack Stat, Type and Moves!",
+        "technologies": ["axios", "PokeAPI", "Node", "Express", "Bootstrap"],
+        "repo": "https://github.com/alecfirstcode2021/pro2_Pokyfyte",
+        "site": "https://pokyfyte.herokuapp.com/"
+    },
+    {
+        "title": "Project-3 (processing) ",
+        "image": "https://i.imgur.com/h26BJIP.jpg",
+        "about": 
+            "",
+        "technologies": ["MongoDB", "ReactJS", "NodeJS", "Express"],
+        "repo": "",
+        "site": ""
+    }
+]

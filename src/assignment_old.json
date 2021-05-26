@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Password Generator",
+        "image": "https://i.imgur.com/szpzhmZ.jpg",
+        "about": 
+            "This assignment use of Javascript to generate a random, secure password for the user.",
+        "technologies": ["HTML", "CSS", "Javascript "],
+        "repo": "https://github.com/alecfirstcode2021/yihsienlu-passwordgenerator",
+        "site": "https://alecfirstcode2021.github.io/yihsienlu-passwordgenerator"
+    },
+    {
+        "title": "Code Quiz",
+        "image": "https://i.imgur.com/FJHwBUq.jpg",
+        "about": 
+            "This is a quiz testing game using HTML, CSS, and Javascript. This testting game features the use of Javascript to implement several coding questions and collect user's data to determine whether the answers to a question are correct or not, and then generates a score and appends a final page of results from the result.",
+        "technologies": ["HTML", "CSS", "Javascript "],
+        "repo": "https://github.com/alecfirstcode2021/yihsienlu-codeQuiz",
+        "site": "https://alecfirstcode2021.github.io/yihsienlu-codeQuiz/"
+    }
+]
